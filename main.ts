@@ -49,5 +49,5 @@ while (true) {
         basic.showIcon(IconNames.Happy)
     }
     
-    basic.pause(100)
+    basic.pause(101)
 }

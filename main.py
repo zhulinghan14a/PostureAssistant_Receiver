@@ -45,4 +45,4 @@ while True:
         basic.show_icon(IconNames.ANGRY)
     else:
         basic.show_icon(IconNames.HAPPY)
-    basic.pause(100)
+    basic.pause(101)
